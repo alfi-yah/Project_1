@@ -1,0 +1,11 @@
+.head-section{
+	padding: 200px;
+	text-align: center;
+	text-shadow: 0px 4px 10px rgb(215, 214, 214);
+}
+.head-section h2{
+	color: rgb(79, 49, 11);
+}
+.head-section h3{
+	color: rgb(103, 70, 40);
+}

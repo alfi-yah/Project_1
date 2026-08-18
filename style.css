@@ -9,3 +9,8 @@
 .head-section h3{
 	color: rgb(103, 70, 40);
 }
+.head-section p {
+    color: rgb(120, 90, 70);
+    font-size: 18px;
+    margin-top: 20px;
+}
